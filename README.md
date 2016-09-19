@@ -11,6 +11,9 @@
 - [贵阳大数据开放服务平台](http://www.datagy.cn/)
 - [无锡市政府数据服务网](http://opendata.wuxi.gov.cn/)
 
+## 地理数据
+- [OpenStreetMap](https://www.openstreetmap.org/)
+
 ## 专利数据
 - [中国专利数据](http://patdata.sipo.gov.cn/)
 - [欧洲专利局数据服务](http://www.epo.org/searching-for-patents.html)
