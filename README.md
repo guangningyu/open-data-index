@@ -9,7 +9,12 @@
 - [武汉市政府公开数据服务网](http://www.wuhandata.gov.cn/whdata/index_search.action)
 - [青岛市政府开放数据](http://data.qingdao.gov.cn/data/)
 - [贵阳大数据开放服务平台](http://www.datagy.cn/)
+- [无锡市政府数据服务网](http://opendata.wuxi.gov.cn/)
 
 ## 专利数据
 - [中国专利数据](http://patdata.sipo.gov.cn/)
 - [欧洲专利局数据服务](http://www.epo.org/searching-for-patents.html)
+
+## 数据开放相关组织
+- [开放知识基金会](https://okfn.org/)
+
